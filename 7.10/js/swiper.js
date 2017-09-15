@@ -284,7 +284,9 @@
         // Params
         s.params = params;
         s.originalParams = originalParams;
-        
+        s.params = params;
+        s.originalParams = originalParams;
+
         // Classname
         s.classNames = [];
         /*=========================
